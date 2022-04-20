@@ -1,0 +1,2 @@
+export const INPUT_CHANGE = 'INPUT_CHANGE'
+export const SUBMIT_SPEAK = 'SUBMIT_SPEAK'
